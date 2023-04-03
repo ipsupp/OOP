@@ -1,0 +1,3 @@
+C:/Users/Windows 11 Pro/Desktop/Laboratoare/Programare orientata obiect/lab_05_1/cmake-build-debug/CMakeFiles/lab_04.dir
+C:/Users/Windows 11 Pro/Desktop/Laboratoare/Programare orientata obiect/lab_05_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Windows 11 Pro/Desktop/Laboratoare/Programare orientata obiect/lab_05_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
